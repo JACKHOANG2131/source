@@ -1,0 +1,8 @@
+﻿  BAITAP4_.cpp
+C:\Users\ADMINISTRATOR#0001\source\repos\BAITAP4_\BAITAP4_\BAITAP4_.cpp(24,54): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\BAITAP4_\BAITAP4_\BAITAP4_.cpp(24,54): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\BAITAP4_\BAITAP4_\BAITAP4_.cpp(24,54): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\BAITAP4_\BAITAP4_\BAITAP4_.cpp(25,54): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\BAITAP4_\BAITAP4_\BAITAP4_.cpp(25,54): warning C4566: character represented by universal-character-name '\u1ECF' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\BAITAP4_\BAITAP4_\BAITAP4_.cpp(25,54): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+  BAITAP4_.vcxproj -> C:\Users\ADMINISTRATOR#0001\source\repos\BAITAP4_\Debug\BAITAP4_.exe
