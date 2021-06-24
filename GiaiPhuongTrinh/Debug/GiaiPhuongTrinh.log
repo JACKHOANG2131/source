@@ -1,0 +1,13 @@
+﻿  GiaiPhuongTrinh.cpp
+C:\Users\ADMINISTRATOR#0001\source\repos\GiaiPhuongTrinh\GiaiPhuongTrinh.cpp(11,27): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\GiaiPhuongTrinh\GiaiPhuongTrinh.cpp(11,27): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\GiaiPhuongTrinh\GiaiPhuongTrinh.cpp(11,27): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\GiaiPhuongTrinh\GiaiPhuongTrinh.cpp(11,27): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\GiaiPhuongTrinh\GiaiPhuongTrinh.cpp(15,17): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\GiaiPhuongTrinh\GiaiPhuongTrinh.cpp(15,17): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\GiaiPhuongTrinh\GiaiPhuongTrinh.cpp(15,17): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\GiaiPhuongTrinh\GiaiPhuongTrinh.cpp(15,17): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\GiaiPhuongTrinh\GiaiPhuongTrinh.cpp(17,18): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\GiaiPhuongTrinh\GiaiPhuongTrinh.cpp(17,18): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\GiaiPhuongTrinh\GiaiPhuongTrinh.cpp(17,18): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+  GiaiPhuongTrinh.vcxproj -> C:\Users\ADMINISTRATOR#0001\source\repos\GiaiPhuongTrinh\Debug\GiaiPhuongTrinh.exe
