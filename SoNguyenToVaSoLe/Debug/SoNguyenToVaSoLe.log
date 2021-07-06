@@ -1,0 +1,5 @@
+﻿  SoNguyenToVaSoLe.cpp
+C:\Users\ADMINISTRATOR#0001\source\repos\SoNguyenToVaSoLe\SoNguyenToVaSoLe.cpp(10,37): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\SoNguyenToVaSoLe\SoNguyenToVaSoLe.cpp(11,23): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+C:\Users\ADMINISTRATOR#0001\source\repos\SoNguyenToVaSoLe\SoNguyenToVaSoLe.cpp(11,23): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+  SoNguyenToVaSoLe.vcxproj -> C:\Users\ADMINISTRATOR#0001\source\repos\SoNguyenToVaSoLe\Debug\SoNguyenToVaSoLe.exe
