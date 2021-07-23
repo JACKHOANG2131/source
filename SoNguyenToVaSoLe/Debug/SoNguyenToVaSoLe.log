@@ -1,5 +1,11 @@
 ﻿  SoNguyenToVaSoLe.cpp
-C:\Users\ADMINISTRATOR#0001\source\repos\SoNguyenToVaSoLe\SoNguyenToVaSoLe.cpp(10,37): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
-C:\Users\ADMINISTRATOR#0001\source\repos\SoNguyenToVaSoLe\SoNguyenToVaSoLe.cpp(11,23): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
-C:\Users\ADMINISTRATOR#0001\source\repos\SoNguyenToVaSoLe\SoNguyenToVaSoLe.cpp(11,23): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
-  SoNguyenToVaSoLe.vcxproj -> C:\Users\ADMINISTRATOR#0001\source\repos\SoNguyenToVaSoLe\Debug\SoNguyenToVaSoLe.exe
+D:\repos\SoNguyenToVaSoLe\SoNguyenToVaSoLe.cpp(11,37): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\repos\SoNguyenToVaSoLe\SoNguyenToVaSoLe.cpp(12,23): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\repos\SoNguyenToVaSoLe\SoNguyenToVaSoLe.cpp(12,23): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\repos\SoNguyenToVaSoLe\SoNguyenToVaSoLe.cpp(26,28): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\repos\SoNguyenToVaSoLe\SoNguyenToVaSoLe.cpp(27,34): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\repos\SoNguyenToVaSoLe\SoNguyenToVaSoLe.cpp(28,34): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\repos\SoNguyenToVaSoLe\SoNguyenToVaSoLe.cpp(29,23): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\repos\SoNguyenToVaSoLe\SoNguyenToVaSoLe.cpp(29,23): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\repos\SoNguyenToVaSoLe\SoNguyenToVaSoLe.cpp(94,12): warning C4244: 'return': conversion from 'long double' to 'int', possible loss of data
+  SoNguyenToVaSoLe.vcxproj -> D:\repos\SoNguyenToVaSoLe\Debug\SoNguyenToVaSoLe.exe
